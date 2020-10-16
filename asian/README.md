@@ -4,6 +4,3 @@ This is a directory of recipes in this folder.
 * [Tofu Pad Kee Mao](tofu-pad-kee-mao.md)
 
 # 台式
-
-
-# Melange
