@@ -17,14 +17,14 @@ INGREDIENTS:
 - Pepper
 
 UTENSILS:
-Large pot for cooking pasta
-Chopping Board
-Knife
-Large fry pan
-Mixing bowl
-Fork
-Ladle
-Long set of tongs
+- Large pot for cooking pasta
+- Chopping Board
+- Knife
+- Large fry pan
+- Mixing bowl
+- Fork
+- Ladle
+- Long set of tongs
 
 METHOD:
 1. Spaghetti carbonara takes just a short time to make so first up, boil the water to cook your pasta in a large pot.
