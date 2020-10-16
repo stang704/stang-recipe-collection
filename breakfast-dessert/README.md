@@ -1,5 +1,5 @@
 # Breakfast
-
+- [Banana pancakes](banana-pancakes.md)
 
 
 # Dessert
