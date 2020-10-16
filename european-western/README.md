@@ -1,4 +1,4 @@
 # European/Western dishes
 
 ## Swiss
-- Älplermagronen mit Apfelmus
+- [Älplermagronen mit Apfelmus](aelplermagronen-mit-apfelmus.md)
