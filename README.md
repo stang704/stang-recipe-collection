@@ -9,7 +9,7 @@ Recipes I've tried or would like to try
   - [Arrabbiata](italian/arrabbiata.md)
   - [Bolognese](italian/bolognese-ragu.md)
   - [Carbonara](italian/carbonara.md)
-- [European/Western](european-western/)
+- [European / Western](european-western/)
   - [Älplermagronen mit Apfelmus](european-western/aelplermagronen-mit-apfelmus.md)
   - [Easy Mac 'n Cheese](european-western/easy-mac-n-cheese.md)
 - [Breakfast / Sweet stuff](breakfast-sweet-stuff/)
