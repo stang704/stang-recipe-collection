@@ -17,6 +17,7 @@ Flat, egg pastas - egg pasta for absorbing the sauce, and the flat surface to gr
 
 
 ## Ingredients
+**Serves:** 7-8 meals
 
 - 1 x brown onion
 - 1 x celery stalk
