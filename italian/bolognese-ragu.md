@@ -1,4 +1,4 @@
-# Bolognese ragu with tagliatelle
+# Bolognese ragu
 
 **Source:** [Vincenzo's Plate][1]
 
