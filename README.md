@@ -15,3 +15,5 @@ Recipes I've tried or would like to try
 - [Breakfast / Sweet stuff](breakfast-sweet-stuff/)
   - [Banana Pancakes](breakfast-sweet-stuff/banana-pancakes.md)
   - [Kaiserschmarren](breakfast-sweet-stuff/kaiserschmarren.md)
+- Miscellaneous
+  - [Martin's dinner recipe](dinner-recipe.md)
