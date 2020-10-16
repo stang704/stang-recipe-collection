@@ -1,4 +1,4 @@
 ## Pasta
 - [Bolognese Ragu](bolognese-ragu.md)
 - [Carbonara](carbonara.md)
-- Arrabbiata
+- [Arrabbiata](arrabbiata.md)
