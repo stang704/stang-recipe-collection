@@ -12,8 +12,8 @@ Recipes I've tried or would like to try
 - [European / Western](european-western/)
   - [Älplermagronen mit Apfelmus](european-western/aelplermagronen-mit-apfelmus.md)
   - [Easy Mac 'n Cheese](european-western/easy-mac-n-cheese.md)
-- [Breakfast / Sweet stuff](breakfast-sweet-stuff/)
-  - [Banana Pancakes](breakfast-sweet-stuff/banana-pancakes.md)
-  - [Kaiserschmarren](breakfast-sweet-stuff/kaiserschmarren.md)
+- [Meal-agnostic - Sweet](meal-agnostic-sweet/)
+  - [Banana Pancakes](meal-agnostic-sweet/banana-pancakes.md)
+  - [Kaiserschmarren](meal-agnostic-sweet/kaiserschmarren.md)
 - Miscellaneous
   - [Martin's dinner recipe](dinner-recipe.md)
