@@ -2,7 +2,7 @@
 ## Food
 - 水餃 Dumplings
 - 番茄炒蛋 Tomato scrambled eggs 
--
+- 麻婆豆腐 Mapo tofu
 
 ## Soup
 - 蛋花湯 Corn & egg ribbon soup 
