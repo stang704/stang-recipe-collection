@@ -1,7 +1,8 @@
 # 台式 Taiwanese
 ## Food
 - [茶葉蛋 Tea Eggs](tea-eggs.md)
-- [高麗菜水餃 Dumplings](dumplings.md)
+- [高麗菜豬肉水餃 Cabbage & Pork Dumplings](cabbage-pork-dumplings.md)
+- [素水餃 Veggie dumplings](veggie-dumplings.md)
 - 番茄炒蛋 Tomato scrambled eggs 
 - 麻婆豆腐 Mapo tofu
 
