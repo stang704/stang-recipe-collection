@@ -7,6 +7,7 @@ Recipes I've tried or would like to try
   - [Tofu Pad Kee Mao (vegan)](asian/tofu-pad-kee-mao.md)
   - [Tea Eggs](asian/tea-eggs.md)
 - [Italian](italian/)
+  - Aglio e olio
   - [Arrabbiata](italian/arrabbiata.md)
   - [Bolognese Ragu](italian/bolognese-ragu.md)
   - [Cacio e pepe](italian/cacio-e-pepe.md)
