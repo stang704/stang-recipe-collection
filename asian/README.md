@@ -1,5 +1,6 @@
 # 台式 Taiwanese
 ## Food
+- 茶葉蛋 Tea Eggs
 - 水餃 Dumplings
 - 番茄炒蛋 Tomato scrambled eggs 
 - 麻婆豆腐 Mapo tofu
