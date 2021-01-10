@@ -5,6 +5,7 @@ Recipes I've tried or would like to try
 
 - [Asian](asian/)
   - [Tofu Pad Kee Mao (vegan)](asian/tofu-pad-kee-mao.md)
+  - [Tea Eggs](asian/tea-eggs.md)
 - [Italian](italian/)
   - [Arrabbiata](italian/arrabbiata.md)
   - [Bolognese Ragu](italian/bolognese-ragu.md)
@@ -16,5 +17,6 @@ Recipes I've tried or would like to try
 - [Sweet Stuff](sweet-stuff/)
   - [Banana Pancakes](sweet-stuff/banana-pancakes.md)
   - [Kaiserschmarren](sweet-stuff/kaiserschmarren.md)
+  - [Glühwein](sweet-stuff/gluhwein.md)
 - Miscellaneous
   - [Martin's dinner recipe](dinner-recipe.md)
