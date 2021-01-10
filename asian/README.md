@@ -5,8 +5,9 @@
 - 番茄炒蛋 Tomato scrambled eggs 
 - 麻婆豆腐 Mapo tofu
 
+
 ## Soup
-- 蛋花湯 Corn & egg ribbon soup 
+- 玉米蛋花湯 Corn & egg ribbon soup 
 - 酸辣湯
 
 # Other Asian
