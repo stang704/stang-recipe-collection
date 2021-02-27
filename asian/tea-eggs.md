@@ -1,4 +1,4 @@
-# 茶葉蛋 Tea Eggs
+# 茶葉蛋 | Tea Eggs
 
 **Source:** https://icook.tw/recipes/219057
 
