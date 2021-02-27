@@ -1,5 +1,7 @@
 # Sylvia's recipe collection
-Recipes I've tried or would like to try
+
+- Recipes I've tried or would like to try
+- [Nice resources of recipes](nice-resources.md)
 
 ## Categories
 
