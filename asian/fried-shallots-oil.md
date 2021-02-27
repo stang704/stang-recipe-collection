@@ -18,6 +18,7 @@ Takes about 45 minutes
 - 豬油 lard 1-2 tbs 
 
 ## Tools
+
 - 1 small/medium-sized pot that can hold your shallots + oil
 - 1 bowl to contain the oil
 - 1 strainer to catch the fried shallots
