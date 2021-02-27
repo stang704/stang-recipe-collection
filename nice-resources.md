@@ -15,6 +15,10 @@ Japanese grandmas make food
 Easy Japanese dishes
 - https://www.youtube.com/channel/UCr90FXGOO8nAE9B6FAUeTNA
 
+### The Book of Ramen
+Some dude wrote a whole book on ramen
+- https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/edit
+
 ## Taiwanese/Chinese
 ### 黃聖凱
 Mostly 家常菜, dishes from various cuisines
