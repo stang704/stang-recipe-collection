@@ -6,18 +6,25 @@
 ## Categories
 
 ### [Asian](asian/)
+
+#### Entrees/Other accompaniments
+
+- 涼拌小黃瓜
+- [Tea Eggs](asian/tea-eggs.md)
+- [Fried Shallots & Shallot Oil](asian/fried-shallots-oil.md)
+
 #### Food
 - [Cabbage & Pork Dumplings](asian/cabbage-pork-dumplings.md)
 - [Mapo tofu](asian/mapo-tofu.md)
-- [Tea Eggs](asian/tea-eggs.md)
 - [Veggie dumplings](asian/veggie-dumplings.md)
-- [Fried Shallots & Shallot Oil](asian/fried-shallots-oil.md)
 - [Scallion Oil Noodles](asian/scallion-oil-noodles.md)
+- Tomato scrambled eggs 
+- 燙萵苣
+- 清炒四季豆
 
-#### Soup 
+#### Soups
 - 玉米蛋花湯 Corn & egg ribbon soup 
 - 酸辣湯
-
 
 #### Other Asian
 - [Tofu Pad Kee Mao (vegan)](asian/tofu-pad-kee-mao.md)
