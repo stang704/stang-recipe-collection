@@ -24,7 +24,7 @@
 
 
 ### [Italian](italian/)
-- Aglio e olio
+- [Aglio e olio](italian/aglio-e-olio.md)
 - [Arrabbiata](italian/arrabbiata.md)
 - [Bolognese Ragu](italian/bolognese-ragu.md)
 - [Cacio e pepe](italian/cacio-e-pepe.md)
