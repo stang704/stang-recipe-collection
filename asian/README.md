@@ -26,8 +26,9 @@
 - 酸辣湯
 
 
-
 # Other Asian
+
+- [Pad Gaprao](pad-gaprao.md)
 
 ## Vegan
 
