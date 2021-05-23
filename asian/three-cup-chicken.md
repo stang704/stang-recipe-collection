@@ -36,7 +36,7 @@ Classic Taiwanese dish, with some improvisations for the lazy peeps.
 ### Prep the ingredients
 
 1. Slice up the chili peppers diagonally (see ref 1)
-2. SLice up the ginger diagonally
+2. Slice up the ginger into thin slices
 3. Peel the garlic and smash 'em (ref 1)
 
 ### What to do with the chicken
