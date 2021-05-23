@@ -13,7 +13,7 @@ Classic Taiwanese dish, with some improvisations for the lazy peeps.
 **Serves:** two portions
 
 - two chicken thighs (boneless for the lazy peeps, else you can choose to keep the bones or debone it when cooking)
-- 1-2 red chili peppers (or 1 red 1 green doesn't matter), if small chilis then 2 for sure, can always dial down if you like no spice
+- 1-2 red chili peppers (or 1 red 1 green doesn't matter), if small chilis then 2 for sure, can always dial down if you like no spice. Can be dried ones if you don't have fresh ones
 - 6 cloves of garlic
 - 30-40g of fresh basil leaves
 - 30-40g of thinly sliced ginger
@@ -73,13 +73,15 @@ Good thing about keeping the bone on is that the bones help add the chicken flav
 Cooking order: sesame oil > rice wine > soy sauce
 
 1. Wok on stove, low heat, pour half the sesame oil, dump in the ginger slices, cook till golden and slightly crispy
+   - Gotta be cold wok to start with, other wise the ginger gets bitter fast
 2. Dump in the smashed garlic, go in with the second half of your sesame oil
+   - if you have fresh chili peppers, you can dump them in now, if dried ones, dump them in later. There doesn't seem to be significant differences in the order.
 3. Give it time to heat up
 4. Once it's starting to be fragrant, dump in your chicken chunks & sliced up chili peppers
 5. Bring wok to mid-high heat, cook till chicken takes on an amber golden colour
 6. Sprinkle in the sugar
-7. Pour in the rice wine, give it a stir
-8. Pour in the soy sauce, stir & mix, bring to boil
+7. Pour in the rice wine, stir & mix
+8. Pour in the soy sauce, add in some water if too dry, bring to boil
 
 Now if you have the 砂鍋, transfer the whole thing over, if not, keep cooking in the original wok.
 
