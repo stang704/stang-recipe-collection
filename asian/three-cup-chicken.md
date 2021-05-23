@@ -65,7 +65,7 @@ Good thing about keeping the bone on is that the bones help add the chicken flav
 
 **Marinate:**
 - Wash the chicken chunks under cold water until the water is clear
-- Marinate with some salt, 5 or 13 spice powder (the kind for Chinese cooking), dash or two of shaoxing/yellow/rice wine, dash or two of soy sauce. 
+- Marinate with some salt, 5 or 13 spice powder (the kind for Chinese cooking), dash or two of shaoxing/yellow/rice wine, dash or two of soy sauce, white pepper.
 - Let side for 30min - 1hr
 
 ### Cooking time!
