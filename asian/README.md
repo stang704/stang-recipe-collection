@@ -12,6 +12,9 @@
 - [素水餃 | Veggie Dumplings](veggie-dumplings.md)
 - [麻婆豆腐 | Mapo Tofu](mapo-tofu.md)
 - [蔥油拌麵 | Scallion Oil Noodles](scallion-oil-noodles.md)
+- [滷肉飯 | Lu Rou Fan](lu-rou-fan.md)
+- [控肉販 | Taiwanese Braised Pork Over Rice](braised-pork-rice.md)
+- [三杯雞 | Three Cup Chicken](three-cup-chicken.md)
 - 番茄炒蛋 | Tomato scrambled eggs 
 - 燙萵苣
 - 清炒四季豆
