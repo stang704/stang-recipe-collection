@@ -19,6 +19,7 @@
 - [Veggie dumplings](asian/veggie-dumplings.md)
 - [Scallion Oil Noodles](asian/scallion-oil-noodles.md)
 - Tomato scrambled eggs 
+- 紅燒豆腐
 - 燙萵苣
 - 清炒四季豆
 
