@@ -7,18 +7,16 @@
 - [茶葉蛋 | Tea Eggs](tea-eggs.md)
 - [油蔥酥 & 蔥油 | Fried Shallots & Shallot Oil](fried-shallots-oil.md)
 
-## Sides - warm
+## Served over rice
 
 - 番茄炒蛋 | Tomato scrambled eggs 
 - 燙萵苣
 - 清炒四季豆
-
-## Served over rice
-
 - [滷肉飯 | Lu Rou Fan](lu-rou-fan.md)
 - [控肉販 | Taiwanese Braised Pork Over Rice](braised-pork-rice.md)
 - [三杯雞 | Three Cup Chicken](three-cup-chicken.md)
 - [麻婆豆腐 | Mapo Tofu](mapo-tofu.md)
+- [紅燒豆腐 | Red Braised Tofu](red-braised-tofu.md)
 
 ## Noodle dishes
 
@@ -41,7 +39,7 @@
 ## Mains
 
 - [Pad Gaprao](pad-gaprao.md)
-- 海南雞飯 Hainanese chicken rice
+- [海南雞飯 | Hainanese chicken rice](hainanese-chicken-rice.md)
 - 親子丼 oyakodon
 - chilli garlic butter shrimps
 
