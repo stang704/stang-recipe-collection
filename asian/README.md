@@ -22,17 +22,17 @@
 
 - [蔥油拌麵 | Scallion Oil Noodles](scallion-oil-noodles.md)
 
-## Other mains
+## Other dishes
 
 - [高麗菜豬肉水餃 | Cabbage & Pork Dumplings](cabbage-pork-dumplings.md)
 - [素水餃 | Veggie Dumplings](veggie-dumplings.md)
+- [蘿蔔糕 | Radish Cake](radish-cake.md)
 
 ## Soups
 
 - 玉米蛋花湯 Corn & egg ribbon soup 
 - 酸辣湯 Sour & hot soup
 - 
-
 
 # Other Asian
 
