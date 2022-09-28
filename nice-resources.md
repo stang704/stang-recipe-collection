@@ -28,6 +28,11 @@ Mostly 家常菜, dishes from various cuisines
 Title is self-explanatory, some recipes too
 - https://www.youtube.com/channel/UC54SLBnD5k5U3Q6N__UjbAw
 
+## Thai
+### Hot Thai Kitchen
+Thai cooking explained
+- https://hot-thai-kitchen.com/thai-recipes-for-beginners/
+
 
 ## Italian
 ### Pasta Grannies
