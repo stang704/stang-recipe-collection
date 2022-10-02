@@ -48,3 +48,7 @@ Italian dishes from an Italian dude (chef?)
 ## Swiss
 ### MySwitzerland - Typically Swiss Recipes
 - https://www.myswitzerland.com/en/experiences/food-wine/typically-swiss-recipes-search/
+
+## Czech
+### Czech soups
+- https://www.cooklikeczechs.com/soup-recipes/
