@@ -1,3 +1,6 @@
+in Tainan it's called 肉燥飯
+
+
 
 basic
 https://www.youtube.com/watch?v=ZIPs-1KXkDU
