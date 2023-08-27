@@ -7,4 +7,4 @@
 - [Easy Mac 'n Cheese](easy-mac-n-cheese.md)
 
 ## Bar bites and junk food
-- fried-bread-smoked-meat-picked-cabbage.md
+- [Fried bread with smoked meat and pickled cabbage](fried-bread-smoked-meat-picked-cabbage.md)
