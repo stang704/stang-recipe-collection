@@ -5,3 +5,6 @@
 
 ## General Western
 - [Easy Mac 'n Cheese](easy-mac-n-cheese.md)
+
+## Bar bites and junk food
+- fried-bread-smoked-meat-picked-cabbage.md
