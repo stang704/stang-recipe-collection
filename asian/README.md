@@ -46,4 +46,5 @@
 ## Vegan
 
 - [Tofu Pad Kee Mao](tofu-pad-kee-mao.md)
+- [Lentils à la Sabah](lentils-a-la-sabah.md)
 
