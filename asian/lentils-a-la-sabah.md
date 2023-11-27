@@ -19,9 +19,13 @@
   - chilli powder
   - anything else that sounds reasonable (some grated ginger??)
 
-**Optional, good to have**
-- frozen peas
-- diced potatoes (1-2cm cubes)
+**Optional, good to add**
+- any additional fillers (can be standalone or combo)
+  - frozen peas
+  - diced potatoes (1-2cm cubes)
+  - carrots
+  - tomatoes
+  - spinach
 - fresh coriander 1 bunch - for topping
 
 ### Utensils (for reference only)
