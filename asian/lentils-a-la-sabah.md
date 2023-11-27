@@ -29,8 +29,8 @@
 - fresh coriander 1 bunch - for topping
 
 ### Utensils (for reference only)
-(!) make sure to use a wooden spoon or some spatula that you don't mind being stained
-- you need a small bowl for gathering the spices
+(!) make sure to use a wooden spoon or some spatula that you don't mind being stained - turmeric stains are permanent
+- you need a small bowl for gathering the spices together
 - a big pot for cooking everything together
 
 
@@ -38,7 +38,7 @@
 
 ### REQUIRED PREP
 
-(!) make sure to soak the lentils (like a day or so), otherwise the lentils won't be soft. They're super 
+(!) make sure to soak the lentils (like a day or so), otherwise the lentils will take a long time to cook till soft. They're super durable.
 
 ### Actual cooking
 1. combine the masala in a small bowl - simplest is just to do 1:1:1 of everything; 1-2 bay leaves
