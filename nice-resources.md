@@ -19,6 +19,11 @@ Easy Japanese dishes
 Some dude wrote a whole book on ramen
 - https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/edit
 
+### Chopstick Chronicles
+Japanese lady who lives in Australia. Tagline is Japanese cooking made easy.
+- https://www.chopstickchronicles.com/recipe-index/
+
+
 ## Taiwanese/Chinese
 ### 黃聖凱
 Mostly 家常菜, dishes from various cuisines
