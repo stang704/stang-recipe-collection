@@ -17,7 +17,8 @@ Easy Japanese dishes
 
 ### The Book of Ramen
 Some dude wrote a whole book on ramen
-- https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/edit
+- https://www.instagram.com/ramen__lord/?hl=en
+- https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/edit?tab=t.0#heading=h.630l4m8xqvdo
 
 ## Taiwanese/Chinese
 ### 黃聖凱
